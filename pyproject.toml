@@ -13,7 +13,7 @@ dependencies = [
     "pydantic>=2.0.0",
     "loguru>=0.7.0",
     "pyyaml>=6.0.0",
-    "edge-tts==7.2.7",
+    "edge-tts==7.3.1",
     "certifi>=2025.10.5",
     "ffmpeg-python>=0.2.0",
     "httpx>=0.28.1",
