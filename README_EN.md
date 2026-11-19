@@ -1,6 +1,6 @@
 <h1 align="center">🎬 Pixelle-Video —— AI Fully Automated Short Video Engine</h1>
 
-<p align="center"><b>English</b> | <a href="README.md">中文</a></p>
+<p align="center"><b>English</b> | <a href="README.md">中文</a> | <a href="README_JA.md">日本語</a></p>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=uUkx-lRxLjc" target="_blank"><img src="https://img.shields.io/badge/🎥 Video%20Tutorial-EA4C89" alt="Video Tutorial"></a>
