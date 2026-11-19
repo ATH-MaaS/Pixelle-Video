@@ -1,6 +1,6 @@
 <h1 align="center">🎬 Pixelle-Video —— AI 全自动短视频引擎</h1>
 
-<p align="center"><a href="README_EN.md">English</a> | <b>中文</b></p>
+<p align="center"><a href="README_EN.md">English</a> | <b>中文</b> | <a href="README_JA.md">日本語</a></p>
 
 <p align="center">
   <a href="https://www.bilibili.com/video/BV1WzyGBnEVp/?vd_source=e7e7d4ca8db9a18c80f17a24a6582fca" target="_blank"><img src="https://img.shields.io/badge/🎥 视频教程-EA4C89" alt="视频教程"></a>
